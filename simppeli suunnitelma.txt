@@ -1,0 +1,8 @@
+"kopioidaan" koulun sivun ulkonäkö. tehdään siitä teema omalle sivulle
+etusivu: linkki info sivuun ja kaikki tekstikentät jotka muodostavat lähetettävän formin.
+lähetys sivu: form lähetetään toiselle sivulle jossa varmennetaan tietojen lähetys. 
+tiedot lähetetään exel tiedostoon jossa on kaikki koop tiedot.
+tämän lisäksi tallennetaan väliaikaisesti teksti tiedostoon josta tulee tiedot emailiin.
+lähetys sivulta pääsee myös takaisin etusivulle
+
+
