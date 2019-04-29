@@ -1,31 +1,32 @@
 xls
-2019/03/11 kello:12:59:54 KOULUTUS/OPPISOPIMUSAIHIO
-KER√ÑTYT TIEDOT: 
-eegegee 
-sgsesgsegeseg 
+2019/04/29 kello:12:08:07 KOULUTUS/OPPISOPIMUSAIHIO
+KERƒTYT TIEDOT: 
+asdsasd 
+asdasd 
+123123 
 pp.kk.vv 
 pp.kk.vv 
-kyll√§ 
-kyll√§ 
-kyll√§ 
-kyll√§ 
-qwfsa 
-asffasf 
-asfasf 
-30.2.1423 
-30.2.1423 
+kyll‰ 
+kyll‰ 
+kyll‰ 
+kyll‰ 
+kyll‰ 
+kyll‰ 
+kyll‰ 
+123123 
+1233123 
 ko 
-kyll√§ 
+kyll‰ 
 30 
-asffass 
-asfsasfsasf 
-asfasfasfs 
-asfsasfasfs 
-asfsassfasf 
+asdasd 
+123123 
+asdasd 
+asdasd 
+123123 
 esimerkki@gmail.com 
-asfasfasf 
-asfasfasf 
-5852642658 
-juho.jaaranen@gmail.com 
-asfafs 
-*LOPPU* Voit vied√§ tiedot esim. Exceliin t√§st√§ 
+asdasdd 
+asdasd 
+123123 
+sahkoposti@gmail.com 
+asdasd 
+*LOPPU* Voit vied‰ tiedot esim. Exceliin t‰st‰ 
