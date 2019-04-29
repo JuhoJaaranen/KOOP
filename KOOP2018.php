@@ -35,7 +35,6 @@ body {
 
 <?php
 
-
 $r1 = ($_POST['r1']);
 $r05 = ($_POST['r05']);
 $r2 = ($_POST['r2']);
@@ -90,8 +89,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 		file_put_contents( $file, $_POST['r1'] . " " . PHP_EOL, FILE_APPEND);
 		file_put_contents( $file, $_POST['r05'] . " " . PHP_EOL, FILE_APPEND);
 		file_put_contents( $file, $_POST['r2'] . " " . PHP_EOL, FILE_APPEND); 
-		file_put_contents( $file, "pp.kk.vv"   . " " . PHP_EOL, FILE_APPEND); //Exceliä varten 
-		file_put_contents( $file, "pp.kk.vv"   . " " . PHP_EOL, FILE_APPEND); //Exceliä varten		
+		file_put_contents( $file, $r3 . " " . PHP_EOL, FILE_APPEND); //Exceliä varten 
+		file_put_contents( $file, $r4 . " " . PHP_EOL, FILE_APPEND); //Exceliä varten		
 		file_put_contents( $file, $_POST['r5'] . " " . PHP_EOL, FILE_APPEND);
 		file_put_contents( $file, $_POST['r6'] . " " . PHP_EOL, FILE_APPEND);
 		file_put_contents( $file, $_POST['r7'] . " " . PHP_EOL, FILE_APPEND); 
@@ -138,7 +137,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
 		
 		print '<br> *-*';
 } 
-
 ?>
 <h1> KOOP -perustietojen keruu <br> Koulutussopimusta/ oppisopimusta varten </h1>
 <h3> DATANOMI: Ohjelmistotuotannon osaamisala </h3>
